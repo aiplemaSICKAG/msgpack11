@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/ar90n/msgpack11.svg?branch=master)](https://travis-ci.org/ar90n/msgpack11)
+[![Build][build-shiled]][build-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT][license-shield]][license-url]
 
 What is msgpack11 ?
 ===============
@@ -73,3 +75,11 @@ Acknowledgement
 License
 ===============
 This software is released under the MIT License, see LICENSE.txt.
+
+
+[build-shiled]: https://img.shields.io/github/workflow/status/ar90n/msgpack11/CI/master
+[build-url]: https://github.com/ar90n/msgpack11/actions/workflows/ci.yml
+[issues-shield]: https://img.shields.io/github/issues/ar90n/msgpack11.svg?style=flat
+[issues-url]: https://github.com/ar90n/msgpack11/issues
+[license-shield]: https://img.shields.io/github/license/ar90n/msgpack11.svg?style=flat
+[license-url]: https://github.com/ar90n/msgpack11/blob/master/LICENSE.txt
